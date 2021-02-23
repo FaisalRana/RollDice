@@ -73,3 +73,5 @@ function holdTurn(click) {
   1total = 1total + turntotal;
   //hide player 1 show player 2 
 }
+
+
